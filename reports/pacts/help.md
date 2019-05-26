@@ -22,3 +22,6 @@
 * Ask a question on stackoverflow and tag it `pact-ruby`
 
 
+The following changes have been made since the previous distinct version of this pact, and may be responsible for verification failure:
+
+No previous distinct version was found for Pact between Chocobo app (v1) and Animal Service
